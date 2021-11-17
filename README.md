@@ -38,5 +38,5 @@
     <li>reemplazar en <b>:user</b> el usuario a consultar</li>
     <li>se obtiene una respuesta del tipo</li>
     <code>{"user": "braulio", "requests": 9}</code>
-    <li><i>*para esta consulta no es necesario el header</i></li>
+    <i>*para esta consulta no es necesario el header</i>
 </ol>
